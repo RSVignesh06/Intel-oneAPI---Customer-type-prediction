@@ -32,5 +32,4 @@ With OneAPI, developers can use a common set of programming interfaces, librarie
 
 In this prediction model the **accuracy of the code is increased** compared to my local machine and which is one of the important thing about the model creation. By this OneAPI platform I can use it on **different kind of machines** which ensures the **cost efficient** of the project.
 ## Intel DevMesh Link 
-![image]([https://devmesh.intel.com/](https://www.intel.com/content/www/us/en/homepage.html))
 **https://devmesh.intel.com/projects/customer_type_prediction_using_oneapi**
