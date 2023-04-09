@@ -14,7 +14,7 @@ The problem is to **predict the type of customer visiting a hotel** based on var
 ## Solution
 The solution is to create a machine learning model that can predict the customer type based on the available data. The data preprocessing steps involve data cleaning, feature engineering, and normalization. **The model selection process includes choosing appropriate algorithms such as SVM, Logistic Regression, MultinomialNB, KNeighborsClassifier, GradientBoostingClassifier, GaussianNB, DecisionTreeClassifier**. The evaluation metrics for the models could be accuracy, precision, recall, and F1 score. The feature importance analysis could reveal which attributes have the most significant impact on the prediction. The trained model can be used to predict the customer type of new customers. This project provides a reference for similar classification problems in the hospitality industry and beyond.
 ## Conclusion of the analysis
-As we worked with the different types of models that have trained for predicting the solution of the problem, **DecisionTreeClassifier model predict more accurate** and can able to classify the customer.
+As we worked with the different types of models that have trained for predicting the solution of the problem, **DecisionTreeClassifier model predict more accurate** and can able to classify the customer. Based on the datas provided by the hotels the model is trained and the new datas can be predicted.
 
 ## Models used
 - svm
