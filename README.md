@@ -31,4 +31,4 @@ OneAPI is a unified, cross-architecture programming model and software developme
 With OneAPI, developers can use a common set of programming interfaces, libraries, and tools to create high-performance applications that can take advantage of the full computing power of a heterogeneous hardware environment. This makes it easier to optimize applications for specific hardware platforms and reduce the time and cost of developing, testing, and deploying software across different architectures.
 
 In this prediction model the **accuracy of the code is increased** compared to my local machine and which is one of the important thing about the model creation. By this OneAPI platform I can use it on **different kind of machines** which ensures the **cost efficient** of the project.
-##DevMesh Link ==> https://devmesh.intel.com/projects/customer_type_prediction_using_oneapi
+## DevMesh Link ==> https://devmesh.intel.com/projects/customer_type_prediction_using_oneapi
